@@ -15,6 +15,11 @@ import javax.servlet.http.HttpServletResponse;
     initParams = @WebInitParam(name = "renderer-class-name", value = "com.logicbig.HtmlRenderer"),
     loadOnStartup = 1)
 public class ViewController extends HttpServlet {
+    /**
+   *
+   */
+  private static final long serialVersionUID = -5864420539432084779L;
+
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
