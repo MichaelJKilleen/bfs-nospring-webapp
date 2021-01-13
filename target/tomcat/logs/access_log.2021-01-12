@@ -1,4 +1,0 @@
-0:0:0:0:0:0:0:1 - - [12/Jan/2021:22:14:19 -0500] "GET /sw.js HTTP/1.1" 404 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [12/Jan/2021:22:14:46 -0500] "GET /sw.js HTTP/1.1" 404 - http-bio-8080-exec-2 0
-0:0:0:0:0:0:0:1 - - [12/Jan/2021:22:14:46 -0500] "GET /webservlet-example/view HTTP/1.1" 404 - http-bio-8080-exec-3 0
-0:0:0:0:0:0:0:1 - - [12/Jan/2021:22:14:47 -0500] "GET /sw.js HTTP/1.1" 404 - http-bio-8080-exec-5 0
