@@ -1,0 +1,145 @@
+2021.01.12 21:22:50 INFO  Started: Metals version 0.9.8 in workspace 'C:\Users\Micha\Development\AWebService\bfs-nospring-webapp' for client vscode.
+2021.01.12 21:22:51 INFO  time: initialize in 1.25s
+2021.01.12 21:23:03 WARN  Build server is not auto-connectable.
+2021.01.12 21:47:21 INFO  running 'C:\Program Files\RedHat\java-11-openjdk-11.0.8-2\bin\java -Dfile.encoding=UTF-8 -Dmaven.multiModuleProjectDirectory=C:\Users\Micha\Development\AWebService\bfs-nospring-webapp -Dmaven.home=C:\Users\Micha\AppData\Local\Temp\metals8481501166412595571 -jar C:\Users\Micha\AppData\Local\Temp\metals8481501166412595571\maven-wrapper.jar ch.epfl.scala:maven-bloop_2.12:1.4.6-15-209c2a5c:bloopInstall -DdownloadSources=true'
+2021.01.12 21:47:27 INFO  [INFO] Scanning for projects...
+2021.01.12 21:47:27 INFO  [WARNING] 
+2021.01.12 21:47:27 INFO  [WARNING] Some problems were encountered while building the effective model for com.logicbig.servlet:webservlet-example:war:1.0-SNAPSHOT
+2021.01.12 21:47:27 INFO  [WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-war-plugin is missing. @ line 27, column 15
+2021.01.12 21:47:27 INFO  [WARNING] 
+2021.01.12 21:47:27 INFO  [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+2021.01.12 21:47:27 INFO  [WARNING] 
+2021.01.12 21:47:27 INFO  [WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+2021.01.12 21:47:27 INFO  [WARNING] 
+2021.01.12 21:47:27 INFO  [INFO] 
+2021.01.12 21:47:27 INFO  [INFO] --------------< com.logicbig.servlet:webservlet-example >---------------
+2021.01.12 21:47:27 INFO  [INFO] Building bfs-nospring-webapp Maven Webapp 1.0-SNAPSHOT
+2021.01.12 21:47:27 INFO  [INFO] --------------------------------[ war ]---------------------------------
+2021.01.12 21:47:27 INFO  [INFO] 
+2021.01.12 21:47:27 INFO  [INFO] --- maven-bloop_2.12:1.4.6-15-209c2a5c:bloopInstall (default-cli) @ webservlet-example ---
+2021.01.12 21:47:55 INFO  [INFO] Using empty launcher: no run setup for bfs-nospring-webapp Maven Webapp.
+2021.01.12 21:47:59 INFO  [INFO] Scanning for projects...
+2021.01.12 21:47:59 INFO  [WARNING] 
+2021.01.12 21:47:59 INFO  [WARNING] Some problems were encountered while building the effective model for com.logicbig.servlet:webservlet-example:war:1.0-SNAPSHOT
+2021.01.12 21:47:59 INFO  [WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-war-plugin is missing. @ line 27, column 15
+2021.01.12 21:47:59 INFO  [WARNING] 
+2021.01.12 21:47:59 INFO  [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+2021.01.12 21:47:59 INFO  [WARNING] 
+2021.01.12 21:47:59 INFO  [WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+2021.01.12 21:47:59 INFO  [WARNING] 
+2021.01.12 21:48:02 INFO  [INFO] 
+2021.01.12 21:48:02 INFO  [INFO] --------------< com.logicbig.servlet:webservlet-example >---------------
+2021.01.12 21:48:02 INFO  [INFO] Building bfs-nospring-webapp Maven Webapp 1.0-SNAPSHOT
+2021.01.12 21:48:02 INFO  [INFO] --------------------------------[ war ]---------------------------------
+2021.01.12 21:48:02 INFO  [INFO] 
+2021.01.12 21:48:02 INFO  [INFO] --- maven-dependency-plugin:2.8:sources (default-cli) @ webservlet-example ---
+2021.01.12 21:48:20 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar
+2021.01.12 21:48:23 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar (213 kB at 67 kB/s)
+2021.01.12 21:48:23 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2021.01.12 21:48:23 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar (58 kB at 873 kB/s)
+2021.01.12 21:48:23 INFO  [INFO] 
+2021.01.12 21:48:23 INFO  [INFO] The following files have been resolved:
+2021.01.12 21:48:23 INFO  [INFO]    javax.servlet:javax.servlet-api:jar:sources:3.0.1:compile
+2021.01.12 21:48:23 INFO  [INFO]    junit:junit:jar:sources:3.8.1:test
+2021.01.12 21:48:23 INFO  [INFO] 
+2021.01.12 21:48:23 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.12 21:48:23 INFO  [INFO] BUILD SUCCESS
+2021.01.12 21:48:23 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.12 21:48:23 INFO  [INFO] Total time: 24.781 s
+2021.01.12 21:48:23 INFO  [INFO] Finished at: 2021-01-12T21:48:24-05:00
+2021.01.12 21:48:23 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.12 21:48:23 INFO  [WARNING] you don't define org.scala-lang:scala-library as a dependency of the project
+2021.01.12 21:48:23 INFO  [INFO] Generated .bloop\webservlet-example.json
+2021.01.12 21:48:25 INFO  [INFO] Scanning for projects...
+2021.01.12 21:48:25 INFO  [WARNING] 
+2021.01.12 21:48:25 INFO  [WARNING] Some problems were encountered while building the effective model for com.logicbig.servlet:webservlet-example:war:1.0-SNAPSHOT
+2021.01.12 21:48:25 INFO  [WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-war-plugin is missing. @ line 27, column 15
+2021.01.12 21:48:25 INFO  [WARNING] 
+2021.01.12 21:48:25 INFO  [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+2021.01.12 21:48:25 INFO  [WARNING] 
+2021.01.12 21:48:25 INFO  [WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+2021.01.12 21:48:25 INFO  [WARNING] 
+2021.01.12 21:48:25 INFO  [INFO] 
+2021.01.12 21:48:25 INFO  [INFO] --------------< com.logicbig.servlet:webservlet-example >---------------
+2021.01.12 21:48:25 INFO  [INFO] Building bfs-nospring-webapp Maven Webapp 1.0-SNAPSHOT
+2021.01.12 21:48:25 INFO  [INFO] --------------------------------[ war ]---------------------------------
+2021.01.12 21:48:25 INFO  [INFO] 
+2021.01.12 21:48:25 INFO  [INFO] --- maven-dependency-plugin:2.8:sources (default-cli) @ webservlet-example ---
+2021.01.12 21:48:27 INFO  [INFO] 
+2021.01.12 21:48:27 INFO  [INFO] The following files have been resolved:
+2021.01.12 21:48:27 INFO  [INFO]    javax.servlet:javax.servlet-api:jar:sources:3.0.1:compile
+2021.01.12 21:48:27 INFO  [INFO]    junit:junit:jar:sources:3.8.1:test
+2021.01.12 21:48:27 INFO  [INFO] 
+2021.01.12 21:48:27 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.12 21:48:27 INFO  [INFO] BUILD SUCCESS
+2021.01.12 21:48:27 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.12 21:48:27 INFO  [INFO] Total time: 1.230 s
+2021.01.12 21:48:27 INFO  [INFO] Finished at: 2021-01-12T21:48:27-05:00
+2021.01.12 21:48:27 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.12 21:48:27 INFO  [INFO] Generated .bloop\webservlet-example-test.json
+2021.01.12 21:48:27 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.12 21:48:27 INFO  [INFO] BUILD SUCCESS
+2021.01.12 21:48:27 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.12 21:48:27 INFO  [INFO] Total time: 59.167 s
+2021.01.12 21:48:27 INFO  [INFO] Finished at: 2021-01-12T21:48:27-05:00
+2021.01.12 21:48:27 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.12 21:48:27 INFO  mvn bloopInstall exit: 0
+2021.01.12 21:48:27 INFO  time: ran 'mvn bloopInstall' in 1m5s
+2021.01.12 21:48:27 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 15700'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+error: Giving up on waiting for a connection, printing embedded bloop logs:
+> No server running at 127.0.0.1:8212, let's fire one...
+> Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+> Attempting a connection to the server...
+> Starting bloop server at 127.0.0.1:8212...
+error: The launcher failed to establish a bsp connection, aborting...
+2021.01.12 21:48:59 ERROR Failed to connect with build server, no functionality will work.
+java.lang.RuntimeException: The server did not start, got FailedToOpenBspConnection
+	at bloop.launcher.LauncherMain.failPromise$1(Launcher.scala:95)
+	at bloop.launcher.LauncherMain.runLauncher(Launcher.scala:122)
+	at scala.meta.internal.metals.BloopServers$$anon$1.run(BloopServers.scala:159)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+Jan 12, 2021 9:56:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jan 12, 2021 9:56:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jan 12, 2021 9:57:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2021.01.12 21:57:19 INFO  shutting down Metals

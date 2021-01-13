@@ -1,0 +1,157 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "webservlet-example-test",
+        "directory": "C:\\Users\\Micha\\Development\\AWebService\\bfs-nospring-webapp",
+        "workspaceDir": "C:\\Users\\Micha\\Development\\AWebService\\bfs-nospring-webapp",
+        "sources": [
+            
+        ],
+        "dependencies": [
+            "webservlet-example"
+        ],
+        "classpath": [
+            "C:\\Users\\Micha\\Development\\AWebService\\bfs-nospring-webapp\\target\\test-classes",
+            "C:\\Users\\Micha\\Development\\AWebService\\bfs-nospring-webapp\\target\\classes",
+            "C:\\Users\\Micha\\.m2\\repository\\javax\\servlet\\javax.servlet-api\\3.0.1\\javax.servlet-api-3.0.1.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar"
+        ],
+        "out": "C:\\Users\\Micha\\Development\\AWebService\\bfs-nospring-webapp\\target",
+        "classesDir": "C:\\Users\\Micha\\Development\\AWebService\\bfs-nospring-webapp\\target\\test-classes",
+        "resources": [
+            
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "0.0.0",
+            "options": [
+                
+            ],
+            "jars": [
+                
+            ],
+            "setup": {
+                "order": "java->scala",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                "-g",
+                "-encoding",
+                "UTF-8"
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework",
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "utest.runner.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    {
+                        "args": [
+                            "-v",
+                            "-a"
+                        ],
+                        "framework": {
+                            "names": [
+                                "com.novocode.junit.JUnitFramework"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\RedHat\\java-11-openjdk-11.0.8-2",
+                "options": [
+                    
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "junit",
+                    "name": "junit",
+                    "version": "3.8.1",
+                    "artifacts": [
+                        {
+                            "name": "junit",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar"
+                        },
+                        {
+                            "name": "junit",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "javax.servlet",
+                    "name": "javax.servlet-api",
+                    "version": "3.0.1",
+                    "artifacts": [
+                        {
+                            "name": "javax.servlet-api",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\javax\\servlet\\javax.servlet-api\\3.0.1\\javax.servlet-api-3.0.1.jar"
+                        },
+                        {
+                            "name": "javax.servlet-api",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\javax\\servlet\\javax.servlet-api\\3.0.1\\javax.servlet-api-3.0.1-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}
